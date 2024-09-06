@@ -19,14 +19,17 @@ This is a simple Pygame project that provides a graphical user interface (GUI) w
 
    ```bash
    pip install pygame
+   ```
 
 **clone project:** Clone this repository to your machine:
 git clone https://github.com/Mick-abc123/School-Project.git
 
 ## Usage
 Open a cmd in the folder where main.py is located and run:
-python main.py
-
+   
+   ```bash
+   python main.py
+   ```
 ## Creator
-Mick: https://github.com/Mick-abc123
+Mick: https://github.com/Mick-abc123 and
 Justin https://github.com/?
