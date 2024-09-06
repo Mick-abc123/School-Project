@@ -11,8 +11,8 @@ screen = pygame.display.set_mode((screen_width, screen_height))
 pygame.display.set_caption("First GUI mit background")
 
 # Hintergrundbilder laden
-menu_background_image = pygame.image.load("BilderFuerGame/Background.png")
-level_select_background_image = pygame.image.load("BilderFuerGame/LevelSelectBackground.png")
+menu_background_image = pygame.image.load("Pics/Background.png")
+level_select_background_image = pygame.image.load("Pics/LevelSelectBackground.png")
 
 # Schriftart festlegen
 font = pygame.font.Font(None, 40)
