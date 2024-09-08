@@ -1,6 +1,6 @@
-# Pygame GUI with Level Selection
+# Pygame GUI with different levels 
 
-This is a simple Pygame project that provides a graphical user interface (GUI) with a level selection feature for a game. It demonstrates how to create menu and level selection screens, add buttons, and manage level availability using a configuration file.
+This is a simple Pygame project that has a GUI with levels to complete. It will be a 2D fighting game
 
 ## Features
 
